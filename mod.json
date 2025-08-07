@@ -1,0 +1,14 @@
+{
+	"geode": "4.7.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "radik569.fixpercentage",
+	"name": "FixPercentage",
+	"version": "v1.0.0",
+	"developer": "radik569",
+	"description": "Corrects Progress Bar percentages when setting startpoint in 2.2 levels"
+}
