@@ -1,23 +1,8 @@
-# FixProgressBar
-This is where she makes a mod.
+# FixPercentage
 
-<img src="logo.png" width="150" alt="the mod's logo" />
+This mod improves the accuracy of the progress percentage display when playing from a start position. It calculates the correct percentage based on your position relative to the entire level, rather than just the portion after the start position.
 
-*Update logo.png to change your mod's icon (please)*
-
-## Getting started
-We recommend heading over to [the getting started section on our docs](https://docs.geode-sdk.org/getting-started/) for useful info on what to do next.
-
-## Build instructions
-For more info, see [our docs](https://docs.geode-sdk.org/getting-started/create-mod#build)
-```sh
-# Assuming you have the Geode CLI set up already
-geode build
-```
-
-# Resources
-* [Geode SDK Documentation](https://docs.geode-sdk.org/)
-* [Geode SDK Source Code](https://github.com/geode-sdk/geode/)
-* [Geode CLI](https://github.com/geode-sdk/cli)
-* [Bindings](https://github.com/geode-sdk/bindings/)
-* [Dev Tools](https://github.com/geode-sdk/DevTools)
+# This is particularly useful for:
+- Creators testing specific parts of their level
+- Players practicing difficult sections
+- Anyone who wants accurate progress information when using start positions
