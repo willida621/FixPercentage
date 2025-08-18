@@ -8,7 +8,20 @@
 	},
 	"id": "radik569.fixpercentage",
 	"name": "FixPercentage",
-	"version": "v1.0.0",
+	"version": "v1.1.0",
 	"developer": "radik569",
-	"description": "Corrects Progress Bar percentages when setting startpoint in 2.2 levels"
+	"description": "Corrects Progress Bar percentages when setting startpoint in 2.2 levels",
+	"settings": {
+		"decimal-percentages": {
+			"type": "bool",
+			"name": "Decimal percentages",
+			"default": false
+		},
+		"show-from-percentages": {
+			"type": "bool",
+			"name": "Show from %",
+			"description": "Show from which % the current run is from",
+			"default": false
+		}
+	}
 }
